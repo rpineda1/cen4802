@@ -1,2 +1,3 @@
-# cen4802
-Reposoitory for class cen4802.
+#About me
+
+My name is Ricardo Pineda
