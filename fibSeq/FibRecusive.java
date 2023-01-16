@@ -4,7 +4,7 @@ public class FibRecusive {
 
 	public static void main(String[] args) {
 
-		for (long i=0; i<10; i++) {
+		for (long i=0; i<11; i++) {
 			System.out.println(fib(i));
 		}
 		System.out.println("\n The 10th term of the Fibonacci sequence is: " + fib(9));
